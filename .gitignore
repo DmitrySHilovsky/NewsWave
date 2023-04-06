@@ -1,3 +1,21 @@
+# JetBrains IDE files.
+.idea/
+.vscode/
+
+# Npm modules.
 node_modules/
-.VS/
-.idea
+
+# Logs.
+**/*/logs
+
+# Nyc reporter.
+.nyc_output/
+
+# WDIO reporters.
+homework_22/assets/reports/
+
+# Playwright reporters.
+homework_23/assets/reports/
+
+# Cypress assets.
+homework_24/cypress/assets/
